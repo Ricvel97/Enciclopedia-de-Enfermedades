@@ -1,0 +1,71 @@
+.header {
+  text-align: center;
+  font-size: 60pt;
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  color: #ff9874;
+  text-shadow: 2px 2px black;
+  background-color: #9dbdff;
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  padding-top: 20px;
+  border-bottom: 10px solid #ffd7c4;
+  margin: 0px;
+}
+
+body {
+  background-color: #7695ff;
+}
+
+.diccionario {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #ffd7c4;
+}
+
+.relacionados {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #ffd7c4;
+}
+
+.navegaciones {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.navegaciones ol {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+}
+
+.navegaciones li {
+  padding: 15px;
+}
+
+.navegacion {
+  display: inline-block;
+  font-size: 15pt;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #ffd7c4;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  font-size: small;
+}
